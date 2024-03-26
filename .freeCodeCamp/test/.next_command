@@ -63,3 +63,4 @@ declare -p IFS
 __vsc_prompt_cmd_original
 ?#
 echo
+./insert_data.sh
