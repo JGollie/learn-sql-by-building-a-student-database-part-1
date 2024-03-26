@@ -29,3 +29,4 @@ git status
 git init
 get remote show origin
 git remote show origin
+psql --username=freecodecamp --dbname=postgres
