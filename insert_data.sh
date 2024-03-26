@@ -10,6 +10,7 @@ MAJOR_ID=$($PSQL "SELECT major_id FROM majors WHERE major='$MAJOR'")
 if [[ -z $MAJOR_ID ]]
 then 
 # insert major
+INSERT_MAJOR_RESULT=$($PSQL "INSERT INTO majors(major) VALUES('$MAJOR')")
 # get new major_id
 fi
 # get course_id
