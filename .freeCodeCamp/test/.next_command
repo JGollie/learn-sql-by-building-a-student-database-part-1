@@ -66,3 +66,4 @@ echo
 ./insert_data.sh
 cp courses.csv courses_test.csv
 __vsc_prompt_cmd_original
+./insert_data.sh
