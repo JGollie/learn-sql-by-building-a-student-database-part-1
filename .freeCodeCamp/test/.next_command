@@ -83,3 +83,4 @@ echo $?
 ./insert_data.sh
 ./insert_data.sh
 ./insert_data.sh
+cp students.csv students_test.csv
