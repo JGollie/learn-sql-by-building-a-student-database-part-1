@@ -74,3 +74,4 @@ __vsc_prompt_cmd_original
 HELP if
 hel if
 help if
+./insert_data.sh
