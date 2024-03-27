@@ -79,3 +79,4 @@ __vsc_prompt_cmd_original
 echo
 echo ?#
 echo $?
+./insert_data.sh
